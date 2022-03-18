@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jamujica6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16aAFK5Lvb8tmxVFa4o_pFFRPTkbuI_iF/view?usp=sharing](https://drive.google.com/file/d/16aAFK5Lvb8tmxVFa4o_pFFRPTkbuI_iF/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/16riqF6xJSbEgH1aq4TAuJsks4WGVeOXb/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
