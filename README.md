@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamujica6" alt="jamujica6" /></a> </p>
 
-- 🔭 I’m currently working on [My Tinerary](https://github.com/jamujica6/MyTinerary_JavierMujica)
+- 🔭 I’m currently working on [React Sports](https://github.com/FLS08/React-Sports)
 
 - 🌱 I’m currently learning **MERN**
 
