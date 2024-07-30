@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamujica6" alt="jamujica6" /></a> </p>
 
-- 🔭 I’m currently working on [React Sports](https://github.com/FLS08/React-Sports)
+- 🔭 I’m currently working on [API CRUD](https://github.com/jamujica6/CRUD)
 
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jamujica6/](https://github.com/jamujica6/)
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **jamujica6@gmail.com**
 
